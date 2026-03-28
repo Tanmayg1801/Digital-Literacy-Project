@@ -1,0 +1,14 @@
+Stay Safe Online: A Cyber Security Checklist for College Students
+
+* Never enter your UPI PIN to receive money. You only need your UPI PIN to send money or check your balance.
+* When paying at the campus canteen, local auto-rickshaws, or xerox shops, always cross-check the vendor's name that pops up on your screen before authorizing the payment.
+* Keep your Instagram, Facebook, and personal accounts private. Avoid accepting friend requests from strangers to protect yourself from morphing, cyberbullying, or sextortion scams.
+* Beware of "too good to be true" internships. Never pay a registration or processing fee to secure a job.
+* Avoid third-party loan apps. Many are predatory and steal your contacts and gallery photos to blackmail you later.
+* Avoid making UPI transactions, logging into college portals, or checking bank accounts while connected to free campus, hostel, or cafe Wi-Fi networks without using a trusted VPN.
+* Enable Two-Factor Authentication (2FA).
+* Never leave your devices unlocked. Always secure your smartphone and laptop with a strong passcode or biometric lock.
+
+How to Report a Cybercrime in India
+* Helpline: Dial 1930 immediately to report financial frauds.
+* Portal: Register a formal complaint online at the National Cyber Crime Reporting Portal at https://www.cybercrime.gov.in/.
