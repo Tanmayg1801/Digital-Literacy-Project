@@ -1,7 +1,7 @@
 # CSE0001 - Digital Literacy Project
 
 **Student Name:** Tanmay  
-**Registration Number:** 25BCG10002
+**Registration Number:** 25BCG10002  
 **Branch:** B.Tech Computer Science and Engineering (Gaming Technology) 
 
 ## Project Overview
